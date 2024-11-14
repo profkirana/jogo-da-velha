@@ -23,3 +23,21 @@ body{
     margin-top: 10em;
     color: rgb(61, 25, 167);
 }
+
+.reset {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: rgb(46, 29, 98);
+    color: rgb(213, 202, 249);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+  
+.reset:hover {
+    background-color: rgb(153, 121, 248);
+    color: rgb(32, 8, 104);
+    
+}
